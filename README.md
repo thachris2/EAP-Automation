@@ -16,3 +16,9 @@ OBD-II (under passenger dash) → ESP32 <br />
 │ OBD Pin 16 (+12V) ──► 5V Buck → ESP32 VIN │ <br />
 │ OBD Pin 4/5 (GND) ───────► ESP32 GND      │ <br />
 └─────────────────────────────────────┘ <br />
+
+5. Final Test (Highway) <br />
+a) Enable EAP → Navigate → Highway <br />
+b) Wait for lane change suggestion (screen shows arrow) <br />
+c) Blinker auto-flashes → lane change starts <br />
+d) No touch needed <br />
